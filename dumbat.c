@@ -154,7 +154,7 @@ int main (int argc, char **argv)
     FILE *fp = fopen(filePath, "r");
     if (!fp)
     {
-        perror("dumbat");               //TODO: let it print the name of the file that was not found (Look at how cat does it)
+        perror("dumbat");              
         return 1;
     }
     char fileContent[LINE_SIZE];
