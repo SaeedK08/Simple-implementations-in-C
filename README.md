@@ -1,1 +1,1 @@
-Multiple-implementations-in-C.
+Multiple implementations in C.
